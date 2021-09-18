@@ -1,1 +1,1 @@
-# class-23-hw
+# project-C24-template
